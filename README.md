@@ -23,7 +23,7 @@
 
 ###
 
-<img align="right" height="150" src="https://i.gifer.com/2M2E.gif"  />
+<img align="center" height="300" src="https://i.gifer.com/2M2E.gif"  />
 
 ###
 
@@ -39,6 +39,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/leozbertoldi/leozbertoldi/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/leozbertoldi/leozbertoldi/output/snake.svg" alt="Leo" />
 
 ###
