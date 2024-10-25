@@ -23,7 +23,7 @@
 
 ###
 
-<img align="center" height="500" src="https://i.gifer.com/2M2E.gif"  />
+<img align="center" height="300" src="https://i.gifer.com/2M2E.gif"  />
 
 ###
 
