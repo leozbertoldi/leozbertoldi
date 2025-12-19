@@ -1,12 +1,12 @@
-# 👋 Olá, eu sou o Leonardo Zandonai Bertoldi
+# Leonardo Zandonai Bertoldi
 
-🎓 Estudante de **Ciência da Computação na UFPR**  
-💻 Interessado em **desenvolvimento de software**, **estruturas de dados** e **programação de sistemas**  
-🚀 Buscando oportunidades de **estágio na área de tecnologia**
+Estudante de **Ciência da Computação na UFPR**  
+Interessado em **desenvolvimento de software**, **estruturas de dados** e **programação de sistemas**  
+Buscando oportunidades de **estágio na área de tecnologia**
 
 ---
 
-## 🧠 Sobre mim
+## Sobre mim
 
 Sou estudante de Ciência da Computação com base sólida em programação adquirida ao longo da graduação. Tenho experiência prática em projetos acadêmicos e em ambientes colaborativos, especialmente durante minha atuação na **Empresa Júnior de Computação da UFPR**, onde tive contato com clientes reais, processos de negócio e desenvolvimento de soluções de software.
 
@@ -14,7 +14,7 @@ Tenho interesse em aprofundar conhecimentos em **engenharia de software**, **des
 
 ---
 
-## 🛠️ Tecnologias & Ferramentas
+## Tecnologias & Ferramentas
 
 ### Linguagens
 
@@ -54,10 +54,10 @@ Tenho interesse em aprofundar conhecimentos em **engenharia de software**, **des
 
 ---
 
-## 📫 Como me encontrar
+## Como me encontrar
 
-- 📧 Email: **leozbertoldi@gmail.com**
-- 💼 LinkedIn: **linkedin.com/in/leonardo-bertoldi**
+- Email: **leozbertoldi@gmail.com**
+- LinkedIn: **linkedin.com/in/leonardo-bertoldi**
 
 ---
 
